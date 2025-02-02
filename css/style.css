@@ -453,7 +453,7 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	background: url('../img/about2.png') right bottom no-repeat;
+	background: url('../img/blog3.jpg') right bottom no-repeat;
 	background-size: contain;
 	padding:110px 0 100px 0;
 	height:auto;
@@ -825,114 +825,8 @@ img.grayscale:hover {
 	top: 50px;
 }
 /* ==========================================================================Subscribe========================================================================== */
-.subscribe {
-	padding-top:75px;
-}
-.subscribe h1 {
-	color: #FFFFFF;
-	margin-bottom:40px;
-}
-.subscribe h1 span {
-	display:block;
-	font-size:15px;
-	text-transform:uppercase;
-	font-weight:bold;
-	margin-top:20px;
-	letter-spacing:1px;
-}
-.subscribe input[type=text] {
-	background-color:rgba(255,255,255,0.1);
-	border: solid 1px #FFE800;
-	padding:20px;
-	width:30%;
-	color:#808080;
-}
-
-.subscribe input[type=text]:focus {
-    outline: none;
-}
-.subscribe input[type=submit] {
-	background: #FFE800;
-	border: solid 1px #FFE800;
-	padding:20px;
-	color: #E04343;
-	text-transform:uppercase;
-	letter-spacing:1px;
-	transition:all 0.5s ease;
-	-moz-transition:all 0.5s ease;
-	-webkit-transition:all 0.5s ease;
-	-o-transition:all 0.5s ease;
-}
-.subscribe input[type=submit]:hover {
-	background: rgba(255, 232, 0, 0.9);
-	border: solid 1px #FFE800;
-	color: #E04343;
-}
 /* ==========================================================================CTA========================================================================== */
-.spacer-cta {
-	background-color: #E04343;
-	padding:70px 0;
-}
-.outline-btn {
-	display:inline-block;
-	padding:25px 40px;
-	color: #FFE801;
-	border: solid 1px #FFE801;
-	text-transform:uppercase;
-	font-weight:bold;
-	letter-spacing:1px;
-}
-.outline-btn:hover,.outline-btn:focus {
-	color: #E04343;
-	border: solid 1px #E04343;
-	background: #FFE801;
-}
-.weight-outline-btn {
-	display:inline-block;
-	padding:20px 30px;
-	color:#8C8C8C;
-	border:solid 1px #8C8C8C;
-	text-transform:uppercase;
-	font-weight:bold;
-	letter-spacing:1px;
-}
-.weight-outline-btn:hover,.outline-btn:focus {
-	color:#424242;
-	border: solid 1px #424242;
-}
-/* ==========================================================================Team========================================================================== */
-.team img {
-	margin-bottom:20px;
-}
-ul.social-buttons {
-	list-style:none;
-	margin:0;
-	padding:0;
-}
-ul.social-buttons li {
-	display:inline-block;
-	margin-right:10px;
-}
-ul.social-buttons li:last-child {
-	margin-right:0;
-}
-.social-btn {
-	width:40px;
-	height:40px;
-	background: #E04343;
-	display:inline-block;
-	color:#fff;
-	font-size:17px;
-	line-height:40px;
-	text-align:center;
-}
-.social-btn:hover,.social-btn:focus {
-	background: rgba(255, 232, 0, 1);
-	color: #E04343;
-}
-.social {
-	margin-top: 25px
-}
+
 /* ==========================================================================Contact========================================================================== */
 .up-btn {
 	width:55px;
